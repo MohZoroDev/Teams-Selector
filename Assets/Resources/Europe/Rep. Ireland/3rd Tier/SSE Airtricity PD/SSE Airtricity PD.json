@@ -1,0 +1,122 @@
+[
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Shamrock Rovers",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Shamrock Rovers",
+    "League": "SSE Airtricity PD",
+    "Attack": 64,
+    "Mid": 62,
+    "Defense": 63,
+    "OverAll": 63,
+    "Rating": 1.5
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Bohemians",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Bohemians",
+    "League": "SSE Airtricity PD",
+    "Attack": 59,
+    "Mid": 60,
+    "Defense": 59,
+    "OverAll": 60,
+    "Rating": 1.0
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Dundalk",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Dundalk",
+    "League": "SSE Airtricity PD",
+    "Attack": 60,
+    "Mid": 58,
+    "Defense": 58,
+    "OverAll": 58,
+    "Rating": 0.5
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Cork City",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Cork City",
+    "League": "SSE Airtricity PD",
+    "Attack": 58,
+    "Mid": 56,
+    "Defense": 56,
+    "OverAll": 56,
+    "Rating": 0.5
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\St Patrick's Athletic",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "St Patrick's Athletic",
+    "League": "SSE Airtricity PD",
+    "Attack": 62,
+    "Mid": 63,
+    "Defense": 61,
+    "OverAll": 62,
+    "Rating": 1.0
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Shelbourne",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Shelbourne",
+    "League": "SSE Airtricity PD",
+    "Attack": 61,
+    "Mid": 59,
+    "Defense": 61,
+    "OverAll": 60,
+    "Rating": 1.0
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Derry City",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Derry City",
+    "League": "SSE Airtricity PD",
+    "Attack": 64,
+    "Mid": 62,
+    "Defense": 60,
+    "OverAll": 61,
+    "Rating": 1.0
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Sligo Rovers",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Sligo Rovers",
+    "League": "SSE Airtricity PD",
+    "Attack": 57,
+    "Mid": 58,
+    "Defense": 59,
+    "OverAll": 59,
+    "Rating": 0.5
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\Drogheda United",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "Drogheda United",
+    "League": "SSE Airtricity PD",
+    "Attack": 58,
+    "Mid": 56,
+    "Defense": 57,
+    "OverAll": 57,
+    "Rating": 0.5
+  },
+  {
+    "TeamLogoPath": "Europe\\Rep. Ireland\\3rd Tier\\SSE Airtricity PD\\UCD",
+    "Continent": "Europe",
+    "Country": "Rep. Ireland",
+    "Name": "UCD",
+    "League": "SSE Airtricity PD",
+    "Attack": 54,
+    "Mid": 54,
+    "Defense": 55,
+    "OverAll": 55,
+    "Rating": 0.5
+  }
+]
